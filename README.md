@@ -1,1 +1,1 @@
-# Wheathe-Alert-System
+# Wheather-Alert-System
